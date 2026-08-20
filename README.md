@@ -1,8 +1,21 @@
 <img src="./img/banner.png" align="center" width="100%" height="250px">
 
+<div align="center">
+  <h1>Hi! I'm Ronald</h1>
+  <b>Backend Developer & Web Pentester</b>
+  <br>
+  <p>My goal is simple, to write clean code, to understand as best as possible how the software works, to create safe solutions to everyday problems.</p>
+</div>
+
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropydev&bg_color=0B0C10&color=E0E0E0&line=FFFFFF&point=E0E0E0&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
 <h2 align="center">About Me </h2>
 
-<img align="left" src="./img/rick.png" width="380" alt="Developer Illustration"/>
+<img align="left" src="./img/galaxy.png" width="380" alt="Developer Illustration"/>
 
 <h3>Hey! I'm <b>Ronald</b></h3>
 
@@ -10,32 +23,72 @@
 - Currently a backend **developer** and **web pentester**.
 - I am **14 years** old. I live in Santa Clara, Villa Clara (**Cuba**). 
 - He studied programming a year and a half ago independently. 
+- I am currently studying **Node.js** to specialize in API development with **Express**.
+- I use **Linux** btw
+
 
 <br>
 <br clear="left"/>
 
-<img align="right" src="./img/morty.png" width="200" alt="Developer Illustration"/>
-
-- I am currently studying **Node.js** to specialize in API development with **Express**.
-- I use **Linux** btw
-
-<p>My goal is simple, to write clean code, to understand as best as possible how the software works, to create safe solutions to everyday problems.</p>
-
-<br clear="right"/>
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,fastapi,sqlite,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=kali,linux,github,git,vscode" /><br>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="css" />
+    </td>
+  </tr>
 
-<h2 align="center">Connect with me</h2>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kali" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="express" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="notion" />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Connect</h2>
 <div align="center">
   <a href="https://instagram.com/ronaldb._"><img src="./img/instagram.svg" width="35px"></a> &nbsp;
   <a href="https://www.linkedin.com/in/ronald-bello-7b71b6429"><img src="./img/linkedin.svg" width="35px"></a> &nbsp;
   <a href="mailto:ronaldbello@proton.me"><img src="./img/proton-mail.svg" width="35px"></a> &nbsp;
-  <a href="https://reddit.com/u/RepublicSwimming1982/s/gL01xbasDL"><img src="./img/reddit.svg" width="35px"></a> &nbsp;
+  <a href="https://reddit.com/u/RepublicSwimming1982/s/g2L01xbasDL"><img src="./img/reddit.svg" width="35px"></a> &nbsp;
   <a href="https://t.me/ropydev"><img src="./img/telegram.svg" width="35px"></a> &nbsp;
   <a href="https://wa.me/+5351773323"><img src="./img/whatsapp.svg" width="35px"></a> &nbsp;
   <a href="https://x.com/ropydev"><img src="./img/x.svg" width="35px"></a> &nbsp;
@@ -46,15 +99,16 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ropydev&theme=tokyonight&hide_border=false&border_radius=5" height="150"/>
+<p align="center">
+<a href="https://github.com/ropydev">
+  <img src="https://streak-stats.demolab.com?user=ropydev&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ropydev&theme=github_dark" />
+</a>
+</p>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ropydev&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
-
-<h2 align="center">Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropydev&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
 
 <h2 align="center">Commit Activity</h2>
 
