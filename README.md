@@ -99,14 +99,14 @@
 
 <div align="center">
 
-<p align="center">
-<a href="https://github.com/ropydev">
-  <img src="https://streak-stats.demolab.com?user=ropydev&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://github-stats-extended.vercel.app/api?username=ropydev&theme=github_dark" />
-</a>
-</p>
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ropydev&layout=compact&langs_count=8&theme=github_dark"/>
+<table>
+  <td>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ropydev&layout=compact&langs_count=8&theme=github_dark"/>
+  </td>
+  <td>
+    <img src="https://github-stats-extended.vercel.app/api?username=ropydev&theme=github_dark" />
+  </td>
+</table>
 
 </div>
 
