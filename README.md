@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi! I'm Ronald</h1>
-  <b>Backend Developer & Web Pentester</b>
+  <b>Backend Developer | Web Pentester | 14 years old</b>
   <br>
   <p>My goal is simple, to write clean code, to understand as best as possible how the software works, to create safe solutions to everyday problems.</p>
 </div>
@@ -117,3 +117,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ropydev/ropydev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ropydev/ropydev/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p>∆ All the tools I post on my profile that are considered "unethical" are solely for local and/or educational testing.</p>
