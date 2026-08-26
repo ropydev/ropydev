@@ -36,52 +36,53 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="express" />
+         <img src="https://readme-skills.fly.dev/skills?icons=nodejs" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="express" />
+         <img src="https://readme-skills.fly.dev/skills?icons=javascript" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="express" />
+         <img src="https://readme-skills.fly.dev/skills?icons=python" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
+         <img src="https://readme-skills.fly.dev/skills?icons=express" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="40" height="40" />
+        <img src="https://readme-skills.fly.dev/skills?icons=fastapi" alt="icon" width="40" height="40" />
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="HTML5" />
+        <img src="https://readme-skills.fly.dev/skills?icons=sqlite" width="40" height="40" alt="HTML5" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="css" />
+        <img src="https://readme-skills.fly.dev/skills?icons=bash" width="40" height="40" alt="css" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Nodejs" />
+        <img src="https://readme-skills.fly.dev/skills?icons=html" width="40" height="40" alt="Nodejs" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+        <img src="https://readme-skills.fly.dev/skills?icons=css" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" alt="icon" width="40" height="40" />
+        <img src="https://readme-skills.fly.dev/skills?icons=kali" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
+        <img src="https://readme-skills.fly.dev/skills?icons=linux" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
+        <img src="https://readme-skills.fly.dev/skills?icons=vscode" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="express" />
+        <img src="https://readme-skills.fly.dev/skills?icons=postman" width="40" height="40" alt="express" />
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="notion" />
+        <img src="https://readme-skills.fly.dev/skills?icons=linkedin" width="40" height="40" alt="notion" />
     </td>
   </tr>
 </table>
+
 
 <h2 align="center">Connect</h2>
 <div align="center">
